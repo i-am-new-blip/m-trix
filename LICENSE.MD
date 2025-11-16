@@ -6,7 +6,6 @@ completely destroy this project in any way you want.
 All I ask is that you credit me somewhere visible by the names of "i-am-new-blip" or "cambridge-one" or just put my personal email
 "newaccount123321333@proton.me"
 
-If you don't credit me, I reserve the right to become sue the ass
-of your soul and leave your rest of the life in North Korea.
+If you don't credit me, You'll live the rest of your life in North Korea.
 
-Have fun.
+GHLF
