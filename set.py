@@ -15,7 +15,8 @@ class f:
     def __add__(x,n):
         a,b,c = n.t
         try:
-            x,_=(len(b)-c.n),n()@n;_.n=x
+            x,_=(len(b)-c.n),n()@n
+            _.n=x
             d()@(t()@(n()@n)@_)
             c=a()@(t()@(_)@(n()@n))
             a(b[c])
