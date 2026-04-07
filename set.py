@@ -13,17 +13,19 @@ class e:
 class f:
     def __matmul__(x,n):return x+(n.t@(s()@(t()@(n()@n)@(a()@(t()@(n()@n)@(n()@n))))))
     def __add__(x,n):
-        a,b,c = n.t
+        q,b,c = n.t
         try:
-            x,_=(len(b)-c.n),n()@n
+            x,_=(len(b)-c.n),n()@n  # (starting x = 0) x++
             _.n=x
-            d()@(t()@(n()@n)@_)
-            c=a()@(t()@(_)@(n()@n))
-            a(b[c])
-            return x+(t()@a@b@c)
+            d()@(t()@(n()@n)@_) #     1/x # 1/0 = quit the loop
+            c=a()@(t()@(_)@(n()@n))if isinstance(q,function)else _ # c= x+1
+            q(b[c])                 # q(b[c])
+            return x+(t()@q@b@c)
         except:0
 class m:
     def __matmul__(x,n):n.t[0].n*=n.t[1].n;return n.t[0]
+class z:
+    def __matmul__(x,n):return ord(n.t[0])
 class n:
     def __matmul__(x,n):x.n=1;return x
 class h:
@@ -34,3 +36,11 @@ class x:
     def __matmul__(x,_):return eval(_)
 class kys:
     def __matmul__(x,_):return exit(_)
+
+
+## trut machin
+f()@(t()@0@
+    0@(t()@(
+
+    ))
+a)
