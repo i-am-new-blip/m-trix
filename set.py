@@ -1,17 +1,9 @@
-"""This project is sponsored by: Youtube, Google (Child of the universe), Github, Roblox, Minecraft, Mojang, Micro-soft
-Nintendo, Blackrock, Xbox (Child of Micro-Soft), PlayStation, Betano, Betnacional, The FIFA 2026 World Cup, The FIFA 2022 World Cup
-Honkai Starrail, Genshin Impact, China, USA, Brazil, USSR, IShowSpeed, Python, BASIC, my death, my dead grandma, my dad, my mom and finally The Agency of Health Care of The DEATH"""
 class t:
     def __matmul__(x,n):setattr(x,'t',[]) if not getattr(x,'t',0) else None;x.t.append(n);return x
 class a:
     def __matmul__(x,n):n.t[0].n=sum([i.n for i in n.t]);return n.t[0]
 class s:
     def __matmul__(x,n):n.t[0].n-=n.t[1].n;return n.t[0]
-class b:
-    def __sub__(x,n):x.n=n-(x.n//4)if n>15812 else x.n=n+(x.n*4)
-    def __truediv__(x,n):x.n//=(x.n*n^72);x*x.n
-    def __mul__(x,n):x.n*=n;x.n//=(7^(n-(n^2)));x-(x.n+4)
-    def __matmul__(x,n):x.n=s()@(t()@n()@n())
 class c:
     def __matmul__(a,b):b.t[0].n="".join([chr(i.n) for i in b.t]);return b.t[0]
 class d:
