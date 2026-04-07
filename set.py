@@ -10,6 +10,8 @@ class d:
     def __matmul__(x,n):n.t[0].n/=n.t[1].n;return n.t[0]
 class e:
     def __matmul__(x,n):n.t[0].n**=n.t[1].n;return n.t[0]
+class C:
+    def __matmul__(x,n):n.t[0].n**=2;return n.t[0]
 class f:
     def __matmul__(x,n):return x+(n.t@(s()@(t()@(n()@n)@(a()@(t()@(n()@n)@(n()@n))))))
     def __add__(x,n):
@@ -39,8 +41,7 @@ class kys:
 
 
 ## trut machin
-f()@(t()@0@
-    0@(t()@(
+í=s()@(t()@([g:=(n()@n),setattr(g,'n',(l()@"ord")((l()@"input")())),g][-1])@[g:=(n()@n),setattr(g,'n',48),g][-1]).n
 
-    ))
-a)
+[g:=(n()@n),setattr(g,'n',(l()@"ord")((l()@"input")())),g][-1]
+e()@(t()@(a()@(t()@(n()@n)@(n()@n)))@(a()@(t()@(n()@n)@(n()@n))))
