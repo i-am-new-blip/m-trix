@@ -41,7 +41,7 @@ class kys:
 
 
 ## trut machin
-í=s()@(t()@([g:=(n()@n),setattr(g,'n',(l()@"ord")((l()@"input")())),g][-1])@[g:=(n()@n),setattr(g,'n',48),g][-1]).n
+d()@(t()@(s()@(t()@([g:=(n()@n),setattr(g,'n',(l()@"ord")((l()@"input")())),g][-1])@[g:=(n()@n),setattr(g,'n',48),g][-1]).n)@(n()@n))
 
 [g:=(n()@n),setattr(g,'n',(l()@"ord")((l()@"input")())),g][-1]
 e()@(t()@(a()@(t()@(n()@n)@(n()@n)))@(a()@(t()@(n()@n)@(n()@n))))
