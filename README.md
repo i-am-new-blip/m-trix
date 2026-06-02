@@ -1,3 +1,3 @@
 # m-trix
-"Matrix multiplication"  and python becomes friends; they get drunk and have the deed, so this repository is their son.
+"Matrix multiplication"  and python becomes friends; then i think of mixing both, so this repository is the result.
 My esolang page is [here](https://esolangs.org/wiki/M@trix)
